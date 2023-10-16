@@ -1,0 +1,26 @@
+bootstrap is an html css and javascript framework for developing responsive mobile first website 
+
+
+bootstrap prefix
+-----------------
+sm - small
+lg - large
+md - medium
+xs - extra small
+xl - extra large
+
+
+<i class="bi-buildings icon1 display-3 "></i>
+
+Criminals who intentionally enter computer networks with malicious intent are known as black hat hackers They may distribute malware that steals data (particularly login credentials), financial information, or personal information (such as passwords or credit card numbers). This information is often then sold on the dark web.
+
+
+
+
+
+
+
+Create Unique Design and Construction
+According to Clients'Needs
+
+The big data breaches that make headlines are the work of black hat hackers. In a data breach, hackers can steal the financial, personal, or digital information of customers, patients, and constituents. The hackers can then use this information to smear a business or government agency, sell it on the dark web, or extort money from businesses, government agencies, or individuals..
