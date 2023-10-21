@@ -88,6 +88,9 @@ opacity: 0.6;
 .buttun{
     border: 1px solid rgb(255, 173, 21);
     width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5%;
    
 }
 
@@ -304,9 +307,18 @@ hr.class-1 {
 
 
 @media (max-width:500px){
+    .btn11{
+        width: 0%;
+    }
+    .btn12{
+        width: 0%;
+    }    
+    .btn13{
+        width: 0%;
+    }
 
 .btn{
-    width: 60%;
+    width: 100%;
 }
 .img1{
     width: 100%;
